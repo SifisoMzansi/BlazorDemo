@@ -1,0 +1,12 @@
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\bin\Debug\net7.0\DataAccessLibrary.deps.json
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\bin\Debug\net7.0\DataAccessLibrary.dll
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\bin\Debug\net7.0\DataAccessLibrary.pdb
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\obj\Debug\net7.0\DataAccessLibrary.csproj.AssemblyReference.cache
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\obj\Debug\net7.0\DataAccessLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\obj\Debug\net7.0\DataAccessLibrary.AssemblyInfoInputs.cache
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\obj\Debug\net7.0\DataAccessLibrary.AssemblyInfo.cs
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\obj\Debug\net7.0\DataAccessLibrary.csproj.CoreCompileInputs.cache
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\obj\Debug\net7.0\DataAccessLibrary.dll
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\obj\Debug\net7.0\refint\DataAccessLibrary.dll
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\obj\Debug\net7.0\DataAccessLibrary.pdb
+C:\Users\sxk2502\source\repos\IamTimCorey\Blazor\BlazorDemoAPP\SQLDataAccess\obj\Debug\net7.0\ref\DataAccessLibrary.dll
